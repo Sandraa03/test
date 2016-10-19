@@ -1,0 +1,5 @@
+Hola, sóc la maquina 1 creant el fitxer número 3.
+
+Sóc la maquina 2 modificant el fitxer 3
+Torno a ser la máquina 2 modificant el fitxer 3
+Sóc la maquina 1 modificant el fitxer 3

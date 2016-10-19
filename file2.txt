@@ -1,0 +1,6 @@
+Hola, aquest és el fitxer 2.
+
+Ara la maquina 2 modifica aquest fitxer.
+Sóc la maquina 1, arreclant el conflicte.
+
+Sóc la maquina 2, acabo de crear una branca anomenada 'carrot' i modifico el fitxer 2.

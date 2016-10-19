@@ -1,0 +1,5 @@
+Hola, aquest és el fitxer 1.
+
+Ara la maquina 2 modific aquest fitxer.
+
+Torno a ser la maquina 2, modifico el fitxer 1 de la branc carrot
